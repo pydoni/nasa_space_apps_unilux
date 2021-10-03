@@ -3,7 +3,7 @@
 <h4 align="center">NASA Space Apps Challenge 2021 | Campinas</h4>
 <h5 align="center">Mobile Application created for the Nasa Space Apps Challenge 2021</h5>
 <br>
-<img src="https://media.giphy.com/media/1TUDSsEB1O30gid9v9/giphy.gif" align="center">
+<p align="center"><img src="https://media.giphy.com/media/1TUDSsEB1O30gid9v9/giphy.gif" align="center"></n>
 <br>
 <h4>Project Video</h4>
 https://www.youtube.com/watch?v=Wl4xne0u47M&ab_channel=ErickAmoedo
