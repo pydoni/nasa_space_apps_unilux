@@ -1,9 +1,9 @@
 
 <h1 align="center">UniLux</h1>
 <h4 align="center">NASA Space Apps Challenge 2021 | Campinas</h4>
-<center>Mobile Application created for the Nasa Space Apps Challenge 2021
+<center>Mobile Application created for the Nasa Space Apps Challenge 2021</center>
 <br>
-<img src="https://media.giphy.com/media/1TUDSsEB1O30gid9v9/giphy.gif"></center>
+<center><img src="https://media.giphy.com/media/1TUDSsEB1O30gid9v9/giphy.gif"></center>
 <br>
 <h4>Project Video</h4>
 https://www.youtube.com/watch?v=Wl4xne0u47M&ab_channel=ErickAmoedo
